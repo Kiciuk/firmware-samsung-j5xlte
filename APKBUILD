@@ -1,4 +1,4 @@
-pkgname=firmware-samsung-j5xnlte
+pkgname=firmware-samsung-j5xlte
 pkgver=1
 pkgrel=0
 pkgdesc="Firmware for Samsung Galaxy J5 (2016) (SM-J510FN)"
@@ -30,4 +30,3 @@ wcnss() {
 
 
 
-sha512sums="c80e370cca7db90dfd94e94b197a39986ecd9eb0afe261cf408c5a771960921a3fac702eab33ec6b0332029547cdec019e526b5f5aff9ba4c16d86f742106777  SM-J510FN.tar.xz"
